@@ -1,0 +1,4 @@
+C:\Users\Ariel Larraguibel\Desktop\Repos\MiMascotaApp\MiMascotaApp.Web.Client\wwwroot\appsettings.json
+C:\Users\Ariel Larraguibel\Desktop\Repos\MiMascotaApp\MiMascotaApp.Web.Client\wwwroot\appsettings.Development.json
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json

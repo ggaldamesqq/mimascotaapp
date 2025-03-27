@@ -1,0 +1,2 @@
+C:\Users\Ariel Larraguibel\Desktop\Repos\MiMascotaApp\MiMascotaApp.Web.Client\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\Ariel Larraguibel\Desktop\Repos\MiMascotaApp\MiMascotaApp.Shared\obj\Release\net9.0\staticwebassets.build.json

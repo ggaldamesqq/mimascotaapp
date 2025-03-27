@@ -1,0 +1,7 @@
+C:\Users\Gonzalo Galdames\Downloads\MiMascotaApp\MiMascotaApp\MiMascotaApp.Shared\wwwroot\app.css
+C:\Users\Gonzalo Galdames\Downloads\MiMascotaApp\MiMascotaApp\MiMascotaApp.Shared\wwwroot\bootstrap\bootstrap.min.css
+C:\Users\Gonzalo Galdames\Downloads\MiMascotaApp\MiMascotaApp\MiMascotaApp.Shared\wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png

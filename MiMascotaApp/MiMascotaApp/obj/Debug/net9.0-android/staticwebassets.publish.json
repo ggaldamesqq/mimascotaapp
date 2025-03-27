@@ -1,0 +1,4207 @@
+{
+  "Version": 1,
+  "Hash": "VPuu46vZLyCI4wOL4IqIBiimcOs9ulzTCFH8ypxAtqw=",
+  "Source": "MiMascotaApp",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\MiMascotaApp.Shared.csproj",
+      "Version": 2,
+      "Source": "MiMascotaApp.Shared",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MiMascotaApp.Shared\\wwwroot",
+      "Source": "MiMascotaApp.Shared",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\",
+      "BasePath": "_content/MiMascotaApp.Shared",
+      "Pattern": "**"
+    },
+    {
+      "Name": "MiMascotaApp\\wwwroot",
+      "Source": "MiMascotaApp",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\an636gkryf-da95v2qkru.gz",
+      "SourceId": "MiMascotaApp.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MiMascotaApp.Shared",
+      "RelativePath": "app#[.{fingerprint=da95v2qkru}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7xjk2sttc7",
+      "Integrity": "JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\an636gkryf-da95v2qkru.gz"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\d0njm0rpjv-n0pz20ffkm.gz",
+      "SourceId": "MiMascotaApp.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MiMascotaApp.Shared",
+      "RelativePath": "MiMascotaApp.Shared#[.{fingerprint=n0pz20ffkm}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MiMascotaApp.Shared.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "up4n4qnw1j",
+      "Integrity": "ohNrlLCUXEcxfRhOhlwPRDHHE2bmH8285qnkosuV86U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\d0njm0rpjv-n0pz20ffkm.gz"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\pjvg6pwnxs-6gzpyzhau4.gz",
+      "SourceId": "MiMascotaApp.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MiMascotaApp.Shared",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "joqzyw7ssu",
+      "Integrity": "LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\pjvg6pwnxs-6gzpyzhau4.gz"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\an636gkryf-da95v2qkru.br",
+      "SourceId": "MiMascotaApp.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/MiMascotaApp.Shared",
+      "RelativePath": "app#[.{fingerprint=da95v2qkru}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "9mqv5xoish",
+      "Integrity": "geF/MS0+gNluNrPIl/EEXn78BLEax6Px8CXeNIu/ehM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\an636gkryf-da95v2qkru.br"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\d0njm0rpjv-n0pz20ffkm.br",
+      "SourceId": "MiMascotaApp.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/MiMascotaApp.Shared",
+      "RelativePath": "MiMascotaApp.Shared#[.{fingerprint=n0pz20ffkm}]!.bundle.scp.css.br",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MiMascotaApp.Shared.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "ki3ri1wggr",
+      "Integrity": "jEBdYhHBYAIK2qml8NajGW7c6uc1VK4lCokkbl91ETE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\d0njm0rpjv-n0pz20ffkm.br"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\pjvg6pwnxs-6gzpyzhau4.br",
+      "SourceId": "MiMascotaApp.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/MiMascotaApp.Shared",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "2o883p7o84",
+      "Integrity": "4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\pjvg6pwnxs-6gzpyzhau4.br"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\z85vcadzqx-8inm30yfxf.br",
+      "SourceId": "MiMascotaApp.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/MiMascotaApp.Shared",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "b4a1wrn6r6",
+      "Integrity": "e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\z85vcadzqx-8inm30yfxf.br"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\z85vcadzqx-8inm30yfxf.gz",
+      "SourceId": "MiMascotaApp.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MiMascotaApp.Shared",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fbl5ivwo6k",
+      "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\z85vcadzqx-8inm30yfxf.gz"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MiMascotaApp.Shared.bundle.scp.css",
+      "SourceId": "MiMascotaApp.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/MiMascotaApp.Shared",
+      "RelativePath": "MiMascotaApp.Shared#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "n0pz20ffkm",
+      "Integrity": "maSfdu0QMAadhq4nWASRzkPrXgEJO4M4k69u5/1Zaho=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MiMascotaApp.Shared.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\app.css",
+      "SourceId": "MiMascotaApp.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\",
+      "BasePath": "_content/MiMascotaApp.Shared",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "MiMascotaApp.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\",
+      "BasePath": "_content/MiMascotaApp.Shared",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "MiMascotaApp.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\",
+      "BasePath": "_content/MiMascotaApp.Shared",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\favicon.png",
+      "SourceId": "MiMascotaApp.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\",
+      "BasePath": "_content/MiMascotaApp.Shared",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\1yxs1al4gq-5ikag8vq4y.gz",
+      "SourceId": "MiMascotaApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "MiMascotaApp#[.{fingerprint=5ikag8vq4y}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\MiMascotaApp.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0h3dr4ejcu",
+      "Integrity": "1H1NiT+Kw+lr1620CkUaEVHUkQTNp9R9xSq4t/oMfRc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\MiMascotaApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\9w4mswcqsn-xf4ppbgaz4.gz",
+      "SourceId": "MiMascotaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=xf4ppbgaz4}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hkpvsa3el3",
+      "Integrity": "MUfUHIr3bU4qKE5BnZDEEwETXJc4IjsVAzN3fc9bpnw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\c2q6f9a103-obgb1x923p.gz",
+      "SourceId": "MiMascotaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "app#[.{fingerprint=obgb1x923p}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vzj90oee09",
+      "Integrity": "e4306rHDcKdd9rBZuHDSbbfopML3cK4Fvrptxx9lgJk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\1yxs1al4gq-5ikag8vq4y.br",
+      "SourceId": "MiMascotaApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "MiMascotaApp#[.{fingerprint=5ikag8vq4y}]?.styles.css.br",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\MiMascotaApp.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "kz5zn99eaj",
+      "Integrity": "8KtkWryFIdfycSHZUirk/pBE4nBsPRJUau3WcmVoy04=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\MiMascotaApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\9w4mswcqsn-xf4ppbgaz4.br",
+      "SourceId": "MiMascotaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=xf4ppbgaz4}]?.html.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "qziws8vh0s",
+      "Integrity": "JhR/NUPB6tpdQi8Dbyd+xE6ksYbTLoY4BABYtOdCa/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\c2q6f9a103-obgb1x923p.br",
+      "SourceId": "MiMascotaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "app#[.{fingerprint=obgb1x923p}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "wbesqdrm5g",
+      "Integrity": "dOpRm4inXwHl8WsNrLcjuJiwaSrWsglIJRVphPxTAq4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\MiMascotaApp.styles.css",
+      "SourceId": "MiMascotaApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "MiMascotaApp#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "5ikag8vq4y",
+      "Integrity": "s9mH9kErtW62cG90eOn3U2FvoyfAU/77xfr3CKkChp0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\MiMascotaApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\app.css",
+      "SourceId": "MiMascotaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "obgb1x923p",
+      "Integrity": "nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\index.html",
+      "SourceId": "MiMascotaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xf4ppbgaz4",
+      "Integrity": "Q9glg/nWgjLd1KOVIdW9OYIhJdTZ2v3UNX8EOvOosQ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/MiMascotaApp.Shared/app.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\an636gkryf-da95v2qkru.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000693000693"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1442"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/app.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\an636gkryf-da95v2qkru.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000774593338"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1290"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geF/MS0+gNluNrPIl/EEXn78BLEax6Px8CXeNIu/ehM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/app.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/app.css.br",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\an636gkryf-da95v2qkru.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geF/MS0+gNluNrPIl/EEXn78BLEax6Px8CXeNIu/ehM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-geF/MS0+gNluNrPIl/EEXn78BLEax6Px8CXeNIu/ehM="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/app.css.gz",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\an636gkryf-da95v2qkru.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\an636gkryf-da95v2qkru.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000693000693"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1442"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/app.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\an636gkryf-da95v2qkru.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000774593338"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1290"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geF/MS0+gNluNrPIl/EEXn78BLEax6Px8CXeNIu/ehM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/app.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/app.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/app.da95v2qkru.css.br",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\an636gkryf-da95v2qkru.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geF/MS0+gNluNrPIl/EEXn78BLEax6Px8CXeNIu/ehM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-geF/MS0+gNluNrPIl/EEXn78BLEax6Px8CXeNIu/ehM="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/app.css.br"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/app.da95v2qkru.css.gz",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\an636gkryf-da95v2qkru.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JRyqIbPYDuOeC5nJOM3956s9Uhd3UVgWOSEBUePgnxc="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/app.css.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\pjvg6pwnxs-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\pjvg6pwnxs-6gzpyzhau4.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000057250816"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.6gzpyzhau4.css.br",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\pjvg6pwnxs-6gzpyzhau4.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.br"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\pjvg6pwnxs-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\pjvg6pwnxs-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\pjvg6pwnxs-6gzpyzhau4.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000057250816"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\z85vcadzqx-8inm30yfxf.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000017661604"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.map"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\z85vcadzqx-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.map"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.map"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.8inm30yfxf.map.br",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\z85vcadzqx-8inm30yfxf.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.map.br"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\z85vcadzqx-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.map.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.br",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\pjvg6pwnxs-6gzpyzhau4.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\pjvg6pwnxs-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\z85vcadzqx-8inm30yfxf.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000017661604"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\z85vcadzqx-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.map.br",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\z85vcadzqx-8inm30yfxf.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\z85vcadzqx-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/favicon.png"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/favicon.png",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/MiMascotaApp.Shared.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\d0njm0rpjv-n0pz20ffkm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000572737686"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1745"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ohNrlLCUXEcxfRhOhlwPRDHHE2bmH8285qnkosuV86U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:50:42 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"maSfdu0QMAadhq4nWASRzkPrXgEJO4M4k69u5/1Zaho=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-maSfdu0QMAadhq4nWASRzkPrXgEJO4M4k69u5/1Zaho="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/MiMascotaApp.Shared.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\d0njm0rpjv-n0pz20ffkm.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000677506775"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1475"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jEBdYhHBYAIK2qml8NajGW7c6uc1VK4lCokkbl91ETE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:50:42 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"maSfdu0QMAadhq4nWASRzkPrXgEJO4M4k69u5/1Zaho=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-maSfdu0QMAadhq4nWASRzkPrXgEJO4M4k69u5/1Zaho="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/MiMascotaApp.Shared.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MiMascotaApp.Shared.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"maSfdu0QMAadhq4nWASRzkPrXgEJO4M4k69u5/1Zaho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:50:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-maSfdu0QMAadhq4nWASRzkPrXgEJO4M4k69u5/1Zaho="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/MiMascotaApp.Shared.bundle.scp.css.br",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\d0njm0rpjv-n0pz20ffkm.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jEBdYhHBYAIK2qml8NajGW7c6uc1VK4lCokkbl91ETE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:50:42 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jEBdYhHBYAIK2qml8NajGW7c6uc1VK4lCokkbl91ETE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/MiMascotaApp.Shared.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\d0njm0rpjv-n0pz20ffkm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ohNrlLCUXEcxfRhOhlwPRDHHE2bmH8285qnkosuV86U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:50:42 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ohNrlLCUXEcxfRhOhlwPRDHHE2bmH8285qnkosuV86U="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/MiMascotaApp.Shared.n0pz20ffkm.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\d0njm0rpjv-n0pz20ffkm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000572737686"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1745"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ohNrlLCUXEcxfRhOhlwPRDHHE2bmH8285qnkosuV86U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:50:42 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"maSfdu0QMAadhq4nWASRzkPrXgEJO4M4k69u5/1Zaho=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n0pz20ffkm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-maSfdu0QMAadhq4nWASRzkPrXgEJO4M4k69u5/1Zaho="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/MiMascotaApp.Shared.bundle.scp.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/MiMascotaApp.Shared.n0pz20ffkm.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\d0njm0rpjv-n0pz20ffkm.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000677506775"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1475"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jEBdYhHBYAIK2qml8NajGW7c6uc1VK4lCokkbl91ETE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:50:42 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"maSfdu0QMAadhq4nWASRzkPrXgEJO4M4k69u5/1Zaho=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n0pz20ffkm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-maSfdu0QMAadhq4nWASRzkPrXgEJO4M4k69u5/1Zaho="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/MiMascotaApp.Shared.bundle.scp.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/MiMascotaApp.Shared.n0pz20ffkm.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MiMascotaApp.Shared.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"maSfdu0QMAadhq4nWASRzkPrXgEJO4M4k69u5/1Zaho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:50:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n0pz20ffkm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-maSfdu0QMAadhq4nWASRzkPrXgEJO4M4k69u5/1Zaho="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/MiMascotaApp.Shared.bundle.scp.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/MiMascotaApp.Shared.n0pz20ffkm.bundle.scp.css.br",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\publish\\d0njm0rpjv-n0pz20ffkm.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jEBdYhHBYAIK2qml8NajGW7c6uc1VK4lCokkbl91ETE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:50:42 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n0pz20ffkm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jEBdYhHBYAIK2qml8NajGW7c6uc1VK4lCokkbl91ETE="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/MiMascotaApp.Shared.bundle.scp.css.br"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MiMascotaApp.Shared/MiMascotaApp.Shared.n0pz20ffkm.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Debug\\net9.0\\compressed\\d0njm0rpjv-n0pz20ffkm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ohNrlLCUXEcxfRhOhlwPRDHHE2bmH8285qnkosuV86U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:50:42 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n0pz20ffkm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ohNrlLCUXEcxfRhOhlwPRDHHE2bmH8285qnkosuV86U="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MiMascotaApp.Shared/MiMascotaApp.Shared.bundle.scp.css.gz"
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\c2q6f9a103-obgb1x923p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004219409283"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e4306rHDcKdd9rBZuHDSbbfopML3cK4Fvrptxx9lgJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\c2q6f9a103-obgb1x923p.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.005714285714"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dOpRm4inXwHl8WsNrLcjuJiwaSrWsglIJRVphPxTAq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.br",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\c2q6f9a103-obgb1x923p.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dOpRm4inXwHl8WsNrLcjuJiwaSrWsglIJRVphPxTAq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dOpRm4inXwHl8WsNrLcjuJiwaSrWsglIJRVphPxTAq4="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\c2q6f9a103-obgb1x923p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e4306rHDcKdd9rBZuHDSbbfopML3cK4Fvrptxx9lgJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e4306rHDcKdd9rBZuHDSbbfopML3cK4Fvrptxx9lgJk="
+        }
+      ]
+    },
+    {
+      "Route": "app.obgb1x923p.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\c2q6f9a103-obgb1x923p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004219409283"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e4306rHDcKdd9rBZuHDSbbfopML3cK4Fvrptxx9lgJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "obgb1x923p"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU="
+        }
+      ]
+    },
+    {
+      "Route": "app.obgb1x923p.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\c2q6f9a103-obgb1x923p.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.005714285714"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dOpRm4inXwHl8WsNrLcjuJiwaSrWsglIJRVphPxTAq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "obgb1x923p"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU="
+        }
+      ]
+    },
+    {
+      "Route": "app.obgb1x923p.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "obgb1x923p"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nAPExVxs4MSkXKnxvGIYwMYuD37zfvuOz6q6ILLNXLU="
+        }
+      ]
+    },
+    {
+      "Route": "app.obgb1x923p.css.br",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\c2q6f9a103-obgb1x923p.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dOpRm4inXwHl8WsNrLcjuJiwaSrWsglIJRVphPxTAq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "obgb1x923p"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dOpRm4inXwHl8WsNrLcjuJiwaSrWsglIJRVphPxTAq4="
+        }
+      ]
+    },
+    {
+      "Route": "app.obgb1x923p.css.gz",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\c2q6f9a103-obgb1x923p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e4306rHDcKdd9rBZuHDSbbfopML3cK4Fvrptxx9lgJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:17:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "obgb1x923p"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e4306rHDcKdd9rBZuHDSbbfopML3cK4Fvrptxx9lgJk="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\9w4mswcqsn-xf4ppbgaz4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002597402597"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "384"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MUfUHIr3bU4qKE5BnZDEEwETXJc4IjsVAzN3fc9bpnw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 21:02:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Q9glg/nWgjLd1KOVIdW9OYIhJdTZ2v3UNX8EOvOosQ4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9glg/nWgjLd1KOVIdW9OYIhJdTZ2v3UNX8EOvOosQ4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\9w4mswcqsn-xf4ppbgaz4.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003875968992"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhR/NUPB6tpdQi8Dbyd+xE6ksYbTLoY4BABYtOdCa/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 21:02:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Q9glg/nWgjLd1KOVIdW9OYIhJdTZ2v3UNX8EOvOosQ4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9glg/nWgjLd1KOVIdW9OYIhJdTZ2v3UNX8EOvOosQ4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q9glg/nWgjLd1KOVIdW9OYIhJdTZ2v3UNX8EOvOosQ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 21:02:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9glg/nWgjLd1KOVIdW9OYIhJdTZ2v3UNX8EOvOosQ4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.br",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\9w4mswcqsn-xf4ppbgaz4.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhR/NUPB6tpdQi8Dbyd+xE6ksYbTLoY4BABYtOdCa/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 21:02:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhR/NUPB6tpdQi8Dbyd+xE6ksYbTLoY4BABYtOdCa/4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\9w4mswcqsn-xf4ppbgaz4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MUfUHIr3bU4qKE5BnZDEEwETXJc4IjsVAzN3fc9bpnw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 21:02:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MUfUHIr3bU4qKE5BnZDEEwETXJc4IjsVAzN3fc9bpnw="
+        }
+      ]
+    },
+    {
+      "Route": "index.xf4ppbgaz4.html",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\9w4mswcqsn-xf4ppbgaz4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002597402597"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "384"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MUfUHIr3bU4qKE5BnZDEEwETXJc4IjsVAzN3fc9bpnw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 21:02:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Q9glg/nWgjLd1KOVIdW9OYIhJdTZ2v3UNX8EOvOosQ4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xf4ppbgaz4"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9glg/nWgjLd1KOVIdW9OYIhJdTZ2v3UNX8EOvOosQ4="
+        }
+      ]
+    },
+    {
+      "Route": "index.xf4ppbgaz4.html",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\9w4mswcqsn-xf4ppbgaz4.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003875968992"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhR/NUPB6tpdQi8Dbyd+xE6ksYbTLoY4BABYtOdCa/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 21:02:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Q9glg/nWgjLd1KOVIdW9OYIhJdTZ2v3UNX8EOvOosQ4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xf4ppbgaz4"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9glg/nWgjLd1KOVIdW9OYIhJdTZ2v3UNX8EOvOosQ4="
+        }
+      ]
+    },
+    {
+      "Route": "index.xf4ppbgaz4.html",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q9glg/nWgjLd1KOVIdW9OYIhJdTZ2v3UNX8EOvOosQ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 21:02:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xf4ppbgaz4"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9glg/nWgjLd1KOVIdW9OYIhJdTZ2v3UNX8EOvOosQ4="
+        }
+      ]
+    },
+    {
+      "Route": "index.xf4ppbgaz4.html.br",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\9w4mswcqsn-xf4ppbgaz4.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhR/NUPB6tpdQi8Dbyd+xE6ksYbTLoY4BABYtOdCa/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 21:02:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xf4ppbgaz4"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhR/NUPB6tpdQi8Dbyd+xE6ksYbTLoY4BABYtOdCa/4="
+        }
+      ]
+    },
+    {
+      "Route": "index.xf4ppbgaz4.html.gz",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\9w4mswcqsn-xf4ppbgaz4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MUfUHIr3bU4qKE5BnZDEEwETXJc4IjsVAzN3fc9bpnw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 21:02:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xf4ppbgaz4"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MUfUHIr3bU4qKE5BnZDEEwETXJc4IjsVAzN3fc9bpnw="
+        }
+      ]
+    },
+    {
+      "Route": "MiMascotaApp.5ikag8vq4y.styles.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\1yxs1al4gq-5ikag8vq4y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.010869565217"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1H1NiT+Kw+lr1620CkUaEVHUkQTNp9R9xSq4t/oMfRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"s9mH9kErtW62cG90eOn3U2FvoyfAU/77xfr3CKkChp0=\""
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/MiMascotaApp.Shared/MiMascotaApp.Shared.n0pz20ffkm.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ikag8vq4y"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s9mH9kErtW62cG90eOn3U2FvoyfAU/77xfr3CKkChp0="
+        },
+        {
+          "Name": "label",
+          "Value": "MiMascotaApp.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "MiMascotaApp.5ikag8vq4y.styles.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\1yxs1al4gq-5ikag8vq4y.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.012820512821"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8KtkWryFIdfycSHZUirk/pBE4nBsPRJUau3WcmVoy04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"s9mH9kErtW62cG90eOn3U2FvoyfAU/77xfr3CKkChp0=\""
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/MiMascotaApp.Shared/MiMascotaApp.Shared.n0pz20ffkm.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ikag8vq4y"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s9mH9kErtW62cG90eOn3U2FvoyfAU/77xfr3CKkChp0="
+        },
+        {
+          "Name": "label",
+          "Value": "MiMascotaApp.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "MiMascotaApp.5ikag8vq4y.styles.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\MiMascotaApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s9mH9kErtW62cG90eOn3U2FvoyfAU/77xfr3CKkChp0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:46:55 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/MiMascotaApp.Shared/MiMascotaApp.Shared.n0pz20ffkm.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ikag8vq4y"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s9mH9kErtW62cG90eOn3U2FvoyfAU/77xfr3CKkChp0="
+        },
+        {
+          "Name": "label",
+          "Value": "MiMascotaApp.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "MiMascotaApp.5ikag8vq4y.styles.css.br",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\1yxs1al4gq-5ikag8vq4y.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8KtkWryFIdfycSHZUirk/pBE4nBsPRJUau3WcmVoy04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ikag8vq4y"
+        },
+        {
+          "Name": "label",
+          "Value": "MiMascotaApp.styles.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8KtkWryFIdfycSHZUirk/pBE4nBsPRJUau3WcmVoy04="
+        }
+      ]
+    },
+    {
+      "Route": "MiMascotaApp.5ikag8vq4y.styles.css.gz",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\1yxs1al4gq-5ikag8vq4y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1H1NiT+Kw+lr1620CkUaEVHUkQTNp9R9xSq4t/oMfRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ikag8vq4y"
+        },
+        {
+          "Name": "label",
+          "Value": "MiMascotaApp.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1H1NiT+Kw+lr1620CkUaEVHUkQTNp9R9xSq4t/oMfRc="
+        }
+      ]
+    },
+    {
+      "Route": "MiMascotaApp.styles.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\1yxs1al4gq-5ikag8vq4y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.010869565217"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1H1NiT+Kw+lr1620CkUaEVHUkQTNp9R9xSq4t/oMfRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"s9mH9kErtW62cG90eOn3U2FvoyfAU/77xfr3CKkChp0=\""
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/MiMascotaApp.Shared/MiMascotaApp.Shared.n0pz20ffkm.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s9mH9kErtW62cG90eOn3U2FvoyfAU/77xfr3CKkChp0="
+        }
+      ]
+    },
+    {
+      "Route": "MiMascotaApp.styles.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\1yxs1al4gq-5ikag8vq4y.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.012820512821"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8KtkWryFIdfycSHZUirk/pBE4nBsPRJUau3WcmVoy04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"s9mH9kErtW62cG90eOn3U2FvoyfAU/77xfr3CKkChp0=\""
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/MiMascotaApp.Shared/MiMascotaApp.Shared.n0pz20ffkm.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s9mH9kErtW62cG90eOn3U2FvoyfAU/77xfr3CKkChp0="
+        }
+      ]
+    },
+    {
+      "Route": "MiMascotaApp.styles.css",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\MiMascotaApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s9mH9kErtW62cG90eOn3U2FvoyfAU/77xfr3CKkChp0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:46:55 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/MiMascotaApp.Shared/MiMascotaApp.Shared.n0pz20ffkm.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s9mH9kErtW62cG90eOn3U2FvoyfAU/77xfr3CKkChp0="
+        }
+      ]
+    },
+    {
+      "Route": "MiMascotaApp.styles.css.br",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\1yxs1al4gq-5ikag8vq4y.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8KtkWryFIdfycSHZUirk/pBE4nBsPRJUau3WcmVoy04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8KtkWryFIdfycSHZUirk/pBE4nBsPRJUau3WcmVoy04="
+        }
+      ]
+    },
+    {
+      "Route": "MiMascotaApp.styles.css.gz",
+      "AssetFile": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\obj\\Debug\\net9.0-android\\compressed\\1yxs1al4gq-5ikag8vq4y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1H1NiT+Kw+lr1620CkUaEVHUkQTNp9R9xSq4t/oMfRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1H1NiT+Kw+lr1620CkUaEVHUkQTNp9R9xSq4t/oMfRc="
+        }
+      ]
+    }
+  ]
+}

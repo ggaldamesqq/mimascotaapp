@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEC8B15-981D-4846-A26C-8CD9BE51E491}|MiMascotaApp.Shared\\MiMascotaApp.Shared.csproj|c:\\users\\gonzalo galdames\\downloads\\mimascotaapp\\mimascotaapp\\mimascotaapp.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAEC8B15-981D-4846-A26C-8CD9BE51E491}|MiMascotaApp.Shared\\MiMascotaApp.Shared.csproj|solutionrelative:mimascotaapp.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ntb\\Metronic 1.3\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EB21B5-93B8-48F3-A71A-23B052898410}|MiMascotaApp\\MiMascotaApp.csproj|c:\\users\\gonzalo galdames\\downloads\\mimascotaapp\\mimascotaapp\\mimascotaapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EB21B5-93B8-48F3-A71A-23B052898410}|MiMascotaApp\\MiMascotaApp.csproj|solutionrelative:mimascotaapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EB21B5-93B8-48F3-A71A-23B052898410}|MiMascotaApp\\MiMascotaApp.csproj|c:\\users\\gonzalo galdames\\downloads\\mimascotaapp\\mimascotaapp\\mimascotaapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4EB21B5-93B8-48F3-A71A-23B052898410}|MiMascotaApp\\MiMascotaApp.csproj|solutionrelative:mimascotaapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EB21B5-93B8-48F3-A71A-23B052898410}|MiMascotaApp\\MiMascotaApp.csproj|c:\\users\\gonzalo galdames\\downloads\\mimascotaapp\\mimascotaapp\\mimascotaapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4EB21B5-93B8-48F3-A71A-23B052898410}|MiMascotaApp\\MiMascotaApp.csproj|solutionrelative:mimascotaapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEC8B15-981D-4846-A26C-8CD9BE51E491}|MiMascotaApp.Shared\\MiMascotaApp.Shared.csproj|c:\\users\\gonzalo galdames\\downloads\\mimascotaapp\\mimascotaapp\\mimascotaapp.shared\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAEC8B15-981D-4846-A26C-8CD9BE51E491}|MiMascotaApp.Shared\\MiMascotaApp.Shared.csproj|solutionrelative:mimascotaapp.shared\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEC8B15-981D-4846-A26C-8CD9BE51E491}|MiMascotaApp.Shared\\MiMascotaApp.Shared.csproj|c:\\users\\gonzalo galdames\\downloads\\mimascotaapp\\mimascotaapp\\mimascotaapp.shared\\services\\iformfactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEC8B15-981D-4846-A26C-8CD9BE51E491}|MiMascotaApp.Shared\\MiMascotaApp.Shared.csproj|solutionrelative:mimascotaapp.shared\\services\\iformfactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\ntb\\Metronic 1.3\\index.html",
+              "ToolTip": "E:\\ntb\\Metronic 1.3\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO0CAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-25T21:18:16.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "MiMascotaApp.Shared\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "MiMascotaApp.Shared\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T21:17:40.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MiMascotaApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\MauiProgram.cs",
+              "RelativeToolTip": "MiMascotaApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA2wBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:07:16.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MiMascotaApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\MainPage.xaml",
+              "RelativeToolTip": "MiMascotaApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-25T20:59:16.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "MiMascotaApp.Shared\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\Pages\\Weather.razor",
+              "RelativeToolTip": "MiMascotaApp.Shared\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T20:58:14.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "MiMascotaApp\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp\\wwwroot\\index.html",
+              "RelativeToolTip": "MiMascotaApp\\wwwroot\\index.html",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAtwBIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-25T20:57:45.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFormFactor.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\Services\\IFormFactor.cs",
+              "RelativeDocumentMoniker": "MiMascotaApp.Shared\\Services\\IFormFactor.cs",
+              "ToolTip": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\Services\\IFormFactor.cs",
+              "RelativeToolTip": "MiMascotaApp.Shared\\Services\\IFormFactor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:28:04.016Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 237,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

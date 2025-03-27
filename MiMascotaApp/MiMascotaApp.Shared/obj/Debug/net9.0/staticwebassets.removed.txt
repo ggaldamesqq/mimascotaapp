@@ -1,0 +1,3 @@
+C:\Users\Ariel Larraguibel\Desktop\Repos\MiMascotaApp\MiMascotaApp.Shared\wwwroot\app.css
+C:\Users\Ariel Larraguibel\Desktop\Repos\MiMascotaApp\MiMascotaApp.Shared\wwwroot\bootstrap\bootstrap.min.css
+C:\Users\Ariel Larraguibel\Desktop\Repos\MiMascotaApp\MiMascotaApp.Shared\wwwroot\bootstrap\bootstrap.min.css.map

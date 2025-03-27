@@ -1,0 +1,4 @@
+C:\Users\Gonzalo Galdames\Downloads\MiMascotaApp\MiMascotaApp\MiMascotaApp\wwwroot\index.html
+C:\Users\Gonzalo Galdames\Downloads\MiMascotaApp\MiMascotaApp\MiMascotaApp\wwwroot\app.css
+wwwroot\app.css
+wwwroot\index.html

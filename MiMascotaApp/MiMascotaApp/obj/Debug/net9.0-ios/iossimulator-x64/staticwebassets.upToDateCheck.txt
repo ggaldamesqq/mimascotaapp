@@ -1,0 +1,4 @@
+C:\Users\Ariel Larraguibel\Desktop\Repos\MiMascotaApp\MiMascotaApp\wwwroot\index.html
+C:\Users\Ariel Larraguibel\Desktop\Repos\MiMascotaApp\MiMascotaApp\wwwroot\app.css
+wwwroot\app.css
+wwwroot\index.html

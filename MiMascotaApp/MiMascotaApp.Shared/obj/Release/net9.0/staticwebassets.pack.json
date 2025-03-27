@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\obj\\Release\\net9.0\\scopedcss\\projectbundle\\MiMascotaApp.Shared.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MiMascotaApp.Shared.n0pz20ffkm.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gonzalo Galdames\\Downloads\\MiMascotaApp\\MiMascotaApp\\MiMascotaApp.Shared\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.MiMascotaApp.Shared.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.MiMascotaApp.Shared.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.MiMascotaApp.Shared.props",
+      "PackagePath": "build\\MiMascotaApp.Shared.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MiMascotaApp.Shared.props",
+      "PackagePath": "buildMultiTargeting\\MiMascotaApp.Shared.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.MiMascotaApp.Shared.props",
+      "PackagePath": "buildTransitive\\MiMascotaApp.Shared.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
